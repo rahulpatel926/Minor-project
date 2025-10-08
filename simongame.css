@@ -1,0 +1,49 @@
+.box-container{
+    display:flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+body{
+    text-align:center;
+}
+.bodyflash{
+     background-color:red;
+
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ .btn{
+    height:170px;
+    width:170px;
+    margin:20px;
+    border:6px solid black;
+    background-color: aquamarine;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 900;
+}
+
+
+.red{
+    background-color: #d95980;
+}
+.yello{
+    background-color:#f99b45;
+}
+.blue{
+    background-color: #6399c0;
+}
+.green{
+    background-color: #819ff9;
+}
+
+
+.flash{
+    background-color:white;
+}
+.userflash{
+    background-color:rgb(20, 115, 5);
+}
